@@ -9,5 +9,9 @@ class Shoe
   def initialize(brand)
   @brand = brand
   end
+  
+  def material(condition)
+    puts 
+    
 end
 
