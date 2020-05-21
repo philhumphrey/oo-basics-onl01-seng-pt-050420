@@ -10,8 +10,8 @@ class Shoe
   @brand = brand
   end
   
-  def material(condition)
-    puts 
+  def cobble(condition = "new")
+    
     
 end
 
